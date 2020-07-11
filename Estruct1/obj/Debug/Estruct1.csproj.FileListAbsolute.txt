@@ -1,0 +1,7 @@
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\bin\Debug\Estruct1.exe.config
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\bin\Debug\Estruct1.exe
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\bin\Debug\Estruct1.pdb
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\obj\Debug\Estruct1.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\obj\Debug\Estruct1.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\obj\Debug\Estruct1.exe
+C:\Users\Mahonri\source\repos\Estruct1\Estruct1\obj\Debug\Estruct1.pdb
